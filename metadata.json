@@ -1,0 +1,6 @@
+{
+  "name": "KenoStats - Frequency Tracker & AI Image Studio",
+  "description": "Educational Keno draw history tracker, statistical frequency analyzer, hot/cold heatmaps, Monte Carlo simulator, and AI image creation & editing studio powered by Gemini nano banana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
